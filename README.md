@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 MERN Stack Developer | Fronted Developer | Junior Web Developer
 ---------------------------------------------------------------
 
-I have been learning MERN Stack since 2020 and have 5 months of professional experience with it.
+I have been learning MERN Stack since 2020 and have 5 months of professional experience.
 
 * 🌍  I'm based in Dhaka, Bangladesh.
 * 🖥️  See my portfolio at [Website](http://iqbalhossen-c5422.web.app)
-* ✉️  You can contact me at [iqbal.hossen.senbag.bd@gmail.com](mailto:iqbal.hossen.senbag.bd@gmail.com)
+* ✉️  You can contact me at [iqbalhossen60483@gmail.com](mailto:iqbalhossen60483@gmail.com)
 * 🧠  I'm learning MySQL database.
-* 🤝  I'm open to collaborating on Any kind of cool projects.
+* 🤝  I'm open to collaborating on Any cool project.
 
 ### Skills
 
