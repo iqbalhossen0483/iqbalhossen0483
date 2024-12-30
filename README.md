@@ -9,7 +9,7 @@ I have been learning MERN Stack since 2020 and have 5 months of professional exp
 * 🌍  I'm based in Dhaka, Bangladesh.
 * 🖥️  See my portfolio at [Website](http://iqbalhossen-c5422.web.app)
 * ✉️  You can contact me at [iqbalhossen60483@gmail.com](mailto:iqbalhossen60483@gmail.com)
-* 🧠  I'm learning MySQL database.
+* 🧠  I'm learning AI Model.
 * 🤝  I'm open to collaborating on Any cool projects.
 
 ### Skills
