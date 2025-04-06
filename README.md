@@ -3,7 +3,7 @@
     Hi, I'm Iqbal Hossen <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">
   </h1>
   <div align="center" text-align= "justify">
-   I am a highly skilled Full-Stack JavaScript Developer with extensive experience building scalable, efficient, and user-centric applications. I specialize in the MERN stack (Node.js, Express.js, React.js, Next js, MongoDB, MySQL, Radis) and deeply understand front-end and back-end development.
+   I am a A passionate full-stack developer crafting scalable, AI-powered web apps with React, Node.js, and TypeScript. I build responsive UIs with Next.js and integrate AI models like Gemini and OpenAI, optimizing for performance and user engagement.
   </div>
   <br />
 <div>
