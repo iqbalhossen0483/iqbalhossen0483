@@ -34,7 +34,6 @@
 > ![MySQL](https://img.shields.io/badge/mysql-f5f5f5.svg?style=flat-square&logo=mysql)
 > ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
 > ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=websocket&logoColor=white)
-> ![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=ffde57)
 <br/>
 
 ## 📊`Current working stats:`
