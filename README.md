@@ -16,18 +16,22 @@
 > ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 > ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 > ![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
+> ![React Native](https://img.shields.io/badge/-React%20Native-blue?style=flat-square&logo=react&logoColor=white)
+> ![Expo](https://img.shields.io/badge/Expo-blue?style=flat-square&logo=expo&logoColor=white)
 > ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
 > ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 > ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 > ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
-> ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=react%20query&logoColor=white)
+> ![RTK Query](https://img.shields.io/badge/-RTK%20Query-FF4154?style=flat-square&logo=redux&logoColor=white)
 > ![Vite](https://img.shields.io/badge/Vite-593D88?style=flat-square&logo=vite&logoColor=white)
 > ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 > ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
 > ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 > ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)
 > ![MySQL](https://img.shields.io/badge/mysql-f5f5f5.svg?style=flat-square&logo=mysql)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
+> ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
+> ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=websocket&logoColor=white)
+> ![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=ffde57)
 <br/>
 
 ## 📊`Current working stats:`
@@ -108,8 +112,8 @@
 ## 🎀`Employment History:`
 | Position              | Company                           | Duration             | Job Type           |  Location           |
 | --------------------- | --------------------------------- | -------------------- | ------------------ | --------------------|
-| Full Stack Developer    | Shothik AI       | October 2024 - present  | Full-Time          | Dhaka, Bangladesh    |
-| Junior Web Developer    | Naviasoft       | Jan 2023 - March 2023  | Full-Time          | Dhaka, Bangladesh    |
+| Frontend Developer    | ElonIT       | June 2025 - Present  | Full-Time          | Dhaka, Bangladesh    |
+| Full Stack Developer    | Shothik AI       | October 2024 - May 2025  | Full-Time          | Dhaka, Bangladesh    |
 
 <br/>
 
