@@ -1,19 +1,15 @@
-<div>
-  <h1 align="center">
-    Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, I'm Md Iqbal Hossen
-  </h1>
-  <div align="center" text-align= "justify">
-   I'm a passionate **Full-Stack Web Developer** with 2+ years of experience building scalable and user-friendly applications.  
-I specialize in **JavaScript, React, Next.js, Node.js, Express.js, MongoDB, MySQL**, and also work with **AI technologies** like Vertex AI and Gemini AI.  
-
-🚀 Projects I've worked on include **Shothik AI (AI-powered writing assistant)**, **Workdear (Micro Job Freelancing Software)**, **EasyLife (Company Management Software)**, and **IT Valley (E-commerce software)**,.  
-
-🔹 Skilled in: Web development, mobile apps (React Native), AI integration, and scalable backend systems  
-🔹 Interests: AI, Search technologies, Real-time apps, and exploring **German/Japan IT industry** opportunities  
-🔹 Goal: To build innovative solutions and contribute to impactful open-source projects  
-  </div>
+  <h1 align="center"> Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, I'm Md Iqbal Hossen </h1>
+  
+  I'm a passionate **Full-Stack Web Developer** with 2+ years of experience building scalable and user-friendly applications.  
+  I specialize in **JavaScript, React, Next.js, Node.js, Express.js, MongoDB, MySQL**, and also work with **AI technologies** like Vertex AI and Gemini AI.  
+  
+  🚀 Projects I've worked on include **Shothik AI (AI-powered writing assistant)**, **Workdear (Micro Job Freelancing Software)**, **EasyLife (Company Management Software)**, and **IT Valley (E-commerce software)**.  
+  
+  -  **Skilled in:** Web development, mobile apps (React Native), AI integration, and scalable backend systems  
+  -  **Interests:** AI, Search technologies, Real-time apps, and exploring **German/Japan IT industry** opportunities  
+  -  **Learning:** Golang programming language  
+  -  **Goal:** To build innovative solutions and contribute to impactful open-source projects  
   <br />
-<div>
 
 <br/>
 
