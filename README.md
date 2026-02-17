@@ -62,12 +62,12 @@
         <div style="display: flex; flex-direction: column; align-items: center;">
           <img
           style="max-width: 100%; height: auto;"
-          alt="Jobayer Ahmed :: Profile Stats"
+          alt="Iqbal Hossen :: Profile Stats"
           src="https://github-readme-stats.vercel.app/api?username=iqbalhossen0483&theme=blue-green&show_icons=true&count_private=true&hide_border=true"
         />
           <img
             style="max-width: 100%; height: auto; margin: 10px 0;"
-            alt="Jobayer Ahmed :: Top Langs"
+            alt="Iqbal Hossen :: Top Langs"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbalhossen0483&langs_count=20&theme=blue-green&layout=compact&hide=html&hide_border=true"
           />
         </div>
@@ -96,10 +96,10 @@
  <br />
      -->
      
-<!--
+
 ## 🏆`GitHub Trophies:`
-![](https://github-profile-trophy.vercel.app/?username=jobayer109&theme=dark_lover&no-bg=true&margin-w=4&column=7&no-frame=false)
--->
+![](https://github-profile-trophy.vercel.app/?username=iqbalhossen0483&theme=dark_lover&no-bg=true&margin-w=4&column=7&no-frame=false)
+
   
 ## ⚙️`Problem-solving:`
 
@@ -115,7 +115,7 @@
 | Position              | Company                           | Duration             | Job Type           |  Location           |
 | --------------------- | --------------------------------- | -------------------- | ------------------ | --------------------|
 | Frontend Developer    | ElonIT       | June 2025 - Present  | Full-Time          | Dhaka, Bangladesh    |
-| Full Stack Developer    | Shothik AI       | October 2024 - May 2025  | Full-Time          | Dhaka, Bangladesh    |
+| Full Stack Developer    | Shothik AI       | September 2024 - May 2025  | Full-Time          | Dhaka, Bangladesh    |
 
 <br/>
 
