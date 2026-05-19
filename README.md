@@ -19,12 +19,19 @@
 
 ## About Me
 
-Full-Stack Developer with 2+ years of experience shipping scalable web applications and AI-driven tools across web and mobile. I specialize in real-time systems, LLM integration pipelines, and full-stack architecture.
+Full-Stack Developer with 2+ years of experience building scalable web applications, AI-driven tools, and real-time systems in production environments. I work across the full stack — from React/Next.js frontends to NestJS backends, mobile apps with React Native, and LLM pipelines with LangChain and Google ADK.
 
-- Building at **Elon IT** — live support systems, production-grade UIs, real-time infrastructure
-- Shipped **[Shothik AI](https://www.shothik.ai)** — AI writing platform with 7 tools, SSE streaming, RAG pipelines, Redis caching
-- Built **[Workdear](https://www.workdear.com)** — micro-job marketplace on web (Next.js) and mobile (React Native)
-- Integrating LLMs via **LangChain, Pinecone, Vertex AI, Google ADK**, and custom RAG workflows
+**What I build:**
+- End-to-end AI products — RAG pipelines, LLM integrations, vector search, real-time SSE streaming
+- Scalable backend systems — REST APIs, WebSocket servers, queue-based workers, scheduled cron jobs
+- Cross-platform applications — web with Next.js and mobile with React Native & Expo
+- Secure, production-ready auth flows — JWT, RBAC, subscription enforcement with Redis token quotas
+
+**Shipped in production:**
+- **[Shothik AI](https://www.shothik.ai)** — 7-tool AI writing platform · LangChain · Pinecone · SSE · Redis caching · ~75% latency reduction
+- **[Workdear](https://www.workdear.com)** — Micro-job marketplace on web (Next.js) + mobile (React Native) · Socket.IO live support
+- **EasyLife** — Company management software · real-time notifications · RBAC · stock & cash reporting
+- **IT Valley** — E-commerce platform · inventory management · order tracking · analytics
 
 ---
 
@@ -36,19 +43,23 @@ Full-Stack Developer with 2+ years of experience shipping scalable web applicati
 
 **Backend**
 
-[![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,express,python&theme=dark)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,express,python,fastapi&theme=dark)](https://skillicons.dev)
 
 **Database & Cache**
 
 [![Database](https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase&theme=dark)](https://skillicons.dev)
 
-**DevOps & Cloud**
+**Testing & DevOps**
 
-[![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp&theme=dark)](https://skillicons.dev)
+[![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,nginx,jest,playwright&theme=dark)](https://skillicons.dev)
 
 **AI & LLM**
 
 `LangChain` &nbsp; `Pinecone` &nbsp; `Vertex AI` &nbsp; `Google ADK` &nbsp; `RAG` &nbsp; `Gemini AI`
+
+**Architecture & Patterns**
+
+`Socket.IO` &nbsp; `SSE` &nbsp; `WebSocket` &nbsp; `JWT` &nbsp; `RBAC` &nbsp; `Redis Queue` &nbsp; `Cron Jobs` &nbsp; `TypeORM` &nbsp; `Mongoose`
 
 ---
 
