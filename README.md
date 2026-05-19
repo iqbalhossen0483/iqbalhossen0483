@@ -31,7 +31,6 @@ Full-Stack Developer with 2+ years of experience building scalable web applicati
 - **[Shothik AI](https://www.shothik.ai)** — 7-tool AI writing platform · LangChain · Pinecone · SSE · Redis caching · ~75% latency reduction
 - **[Workdear](https://www.workdear.com)** — Micro-job marketplace on web (Next.js) + mobile (React Native) · Socket.IO live support
 - **EasyLife** — Company management software · real-time notifications · RBAC · stock & cash reporting
-- **IT Valley** — E-commerce platform · inventory management · order tracking · analytics
 
 ---
 
@@ -65,14 +64,21 @@ Full-Stack Developer with 2+ years of experience building scalable web applicati
 
 ## GitHub Stats
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=iqbalhossen0483&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbalhossen0483&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=iqbalhossen0483&theme=tokyonight&hide_border=true" />
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=iqbalhossen0483&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbalhossen0483&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css" height="165" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=iqbalhossen0483&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
 ---
 
