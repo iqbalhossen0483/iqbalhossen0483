@@ -64,21 +64,18 @@ Full-Stack Developer with 2+ years of experience building scalable web applicati
 
 ## GitHub Stats
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=iqbalhossen0483&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbalhossen0483&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css" height="165" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=iqbalhossen0483&theme=tokyonight&hide_border=true" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iqbalhossen0483&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iqbalhossen0483&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iqbalhossen0483&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=iqbalhossen0483&theme=tokyonight&hide_border=true" />
+</div>
 
 ---
 
